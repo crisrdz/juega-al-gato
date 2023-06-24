@@ -1,7 +1,7 @@
 import { styled } from "styled-components";
 import { colors } from "../../styles/global.styled";
 
-export const StyledFooter = styled.div`
+export const StyledFooter = styled.footer`
   margin-top: 2rem;
   border-top: 1px solid ${colors.secondary};
   color: ${colors.tertiary};
